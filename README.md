@@ -5,7 +5,7 @@
 
 - 🌱 Aprendí del mundo IT en **Geekshubs Academy**
 
-- 📫 Contacto **rosamari.sab@gmail.com**
+- 📫 Contacto **rosamari_sab@hotmail.com**
 
 - 👩‍💻 Enfocada en el stack **MERN** (MongoDB, Express, React y NodeJS) pero con muchas ganas de aprender nuevas tecnologías. 
 
