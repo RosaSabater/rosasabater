@@ -7,7 +7,7 @@
 
 - 📫 Contacto **rosamari.sab@gmail.com**
 
-- 👩‍💻 Enfocada en el stack **MERN**(MongoDB, Express, React y NodeJS) pero con muchas ganas de aprender nuevas tecnologías. 
+- 👩‍💻 Enfocada en el stack **MERN** (MongoDB, Express, React y NodeJS) pero con muchas ganas de aprender nuevas tecnologías. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
